@@ -1,4 +1,4 @@
-# employee_log
+# employeePY
 final project in she codes python course 1
 program has two main features, editing employee log and marking attendance.
 you can upload lists from excel or add manually and afterwards export them to new excel,
